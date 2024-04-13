@@ -1,6 +1,5 @@
 # Car-Price-Prediction
 
-Car Price Prediction Project
 This project focuses on predicting car prices using machine learning techniques. The goal is to build a model that can accurately estimate the price of a car based on various features such as make, model, mileage, year of manufacture, and other relevant attributes.
 
 Data Collection and Preprocessing
