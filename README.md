@@ -3,7 +3,7 @@
 This project focuses on predicting car prices using machine learning techniques. The goal is to build a model that can accurately estimate the price of a car based on various features such as make, model, mileage, year of manufacture, and other relevant attributes.
 
 Data Collection and Preprocessing
-1. Data Source: We collected our dataset from [source], consisting of car listings with details like make, model, year, mileage, engine size, fuel type, and price.
+1. Data Source: We collected our dataset from Kaggle, consisting of car listings with details like make, model, year, mileage, engine size, fuel type, and price.
 2. Data Cleaning: We performed data cleaning tasks such as handling missing values, removing duplicates, and correcting inconsistencies in the dataset.
 3. Feature Engineering: We created new features like age of the car (current year - year of manufacture) and extracted meaningful information from existing features.
 
